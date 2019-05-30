@@ -1,1 +1,1 @@
-this project is coming from https://github.com/drethage/speech-denoising-wavenet, and i change some details, like speaker information and stack layer and so on. I also rewrite it with tensorflow.keras, it make me more comfortable.
+this project is coming from https://github.com/drethage/speech-denoising-wavenet, and i change some details, like speaker information and stack layer and so on. I also rewrite it with tensorflow.keras, it makes me more comfortable.
